@@ -2,6 +2,7 @@
   - enter a pokemon website
     - explain query parameters and endpoints
     - pagination - continuous scroll of pokemon
+  - refactor pokemon w/ async/await
   - jsontypicode website
     - first explain why this api is nice - basically acts as a mock db
     - then first teach http methods
