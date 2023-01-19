@@ -1,0 +1,11 @@
+- api practice
+  - enter a pokemon website
+    - explain query parameters and endpoints
+    - pagination - continuous scroll of pokemon
+  - jsontypicode website
+    - first explain why this api is nice - basically acts as a mock db
+    - then first teach http methods
+    - demo PUT vs PATCH
+- arrow fxns & array methods (map, filter, reduce?, indexOf, findIndex, find?, forEach?)
+- localstorage / sessionstorage
+  - maybe do cart for shopping cart site?
