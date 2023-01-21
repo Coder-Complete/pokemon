@@ -1,12 +1,17 @@
 - api practice
-  - enter a pokemon website
-    - explain query parameters and endpoints
-    - pagination - continuous scroll of pokemon
+  - x - pokemon website
+    - x - explain query parameters and endpoints
+    - x - pagination - continuous scroll of pokemon
   - refactor pokemon w/ async/await
-  - jsontypicode website
+  - jsontypicode website - twitter
     - first explain why this api is nice - basically acts as a mock db
-    - then first teach http methods
-    - demo PUT vs PATCH
-- arrow fxns & array methods (map, filter, reduce?, indexOf, findIndex, find?, forEach?)
-- localstorage / sessionstorage
-  - maybe do cart for shopping cart site?
+    - then teach the new http methods
+    - first see feed
+    - when click user, window slides out from right w/ user's tweets
+    - then mention caching - so don't need to keep requesting tweets from same user, and maybe set a timer to clear the cache and fetch again if same user is clicked
+- pass data across pages
+  - url params
+  - localstorage / sessionstorage
+    - maybe do cart for shopping cart site?
+- array methods (map, filter, reduce?, indexOf, findIndex, find?, forEach?)
+
